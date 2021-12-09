@@ -7,5 +7,5 @@
 # print(a[2])
 # print(a[1:3])
 
-thislist = ["apple", "banana", "cherry"
+thislist = ["apple", "banana", "cherry"]
 thislist[1:2] = "blackcurrant", "watermelon"
