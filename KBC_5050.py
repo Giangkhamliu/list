@@ -2,10 +2,10 @@ print("🥰🥰🥰WELCOME TO KBC🥰🥰🥰")
 print("Here are the questions:")
 question= ["How many continents are there?😎","What is the capital of India?😎",
 "What course is offered in NG?😎"]
-options=[["Four😉", "Nine😉", "Seven😉", "Eight😉"],["Chandigarh😉", "Bhopal😉", "Chennai😉", "Delhi😉"],
-["Software Engineering😉", "Counseling😉", "Tourism😉", "Agriculture😉"]]
+options=[["Four", "Nine", "Seven", "Eight"],["Chandigarh", "Bhopal", "Chennai", "Delhi"],
+["Software Engineering", "Counseling", "Tourism", "Agriculture"]]
 solution=[3,4,1]
-life5050=[["Nine👌", "Seven👌"],["Chennai👌", "Delhi👌"],["Software Engineering👌","Agriculture👌"]]
+life5050=[["Nine", "Seven"],["Chennai", "Delhi"],["Software Engineering","Agriculturen"]]
 lifeans=[2,2,1]
 i=0
 j=0
