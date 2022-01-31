@@ -48,7 +48,3 @@ while i<len(question)and j<len(options):
     print()
     i=i+1
     j+=1
-   
-    
-
-
