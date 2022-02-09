@@ -6,16 +6,16 @@
 # # "", "" --> "0"
 # # "2", "" --> "2"
 # # "-5", "3" --> "-
-# a=input("Enter the first no.")
-# b=input("Enter the second no.")
-# if a=="" and b=="":
-#     print("0")
-# elif a=="":
-#     print(b)
-# elif b=="":
-#     print(a)
-# elif a!="" and b!="":
-#     print(str(int(a)+int(b)))
+a=input("Enter the first no.")
+b=input("Enter the second no.")
+if a=="" and b=="":
+    print("0")
+elif a=="":
+    print(b)
+elif b=="":
+    print(a)
+elif a!="" and b!="":
+    print(str(int(a)+int(b)))
 
 
 # # Create a program that checks if a number n is divisible by two numbers x AND y.
