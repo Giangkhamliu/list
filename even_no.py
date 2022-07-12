@@ -7,3 +7,8 @@ while i<len(list):
     if list[i]%2==0:
         print(list[i])
     i+=1
+
+
+                      
+
+
