@@ -1,4 +1,4 @@
-list=['abc', 'xyz', 'aba', '1221']
+list=['abc', 'xyz', 'aba', 1221]
 i=0
 count=0
 while i<len(list):
